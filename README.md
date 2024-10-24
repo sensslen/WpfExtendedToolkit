@@ -7,7 +7,7 @@
 WpfExToolkit
 ============
 
-A fork of https://wpftoolkit.codeplex.com/ and now (https://github.com/xceedsoftware/wpftoolkit)
+A fork of https://wpftoolkit.codeplex.com/ and now (https://github.com/xceedsoftware/wpftoolkit) version 3 which was still released under a permissive license.
 
 But this fork is maintained and Pull Requests and Patches are accepted.
 
