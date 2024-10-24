@@ -11,7 +11,7 @@ A fork of https://wpftoolkit.codeplex.com/ and now (https://github.com/xceedsoft
 
 But this fork is maintained and Pull Requests and Patches are accepted.
 
-Another feature wich is not yet in the Xceed Version is NetCore 3 support!
+Another feature wich is not in the Xceed Version is NetCore and Net support.
 
 AvalonDock
 ----------
